@@ -10,7 +10,7 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false"
   },
   "dependencies": {
-    "@surely-vue/table": "2.5.6",
+    "@surely-vue/table": "2.5.7",
     "ant-design-vue": "3.2.15",
     "less": "^4.2.0",
     "vue": "^3.3.4"

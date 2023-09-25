@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@surely-vue/table':
-    specifier: 2.5.6
-    version: 2.5.6(ant-design-vue@3.2.15)(vue@3.3.4)
+    specifier: 2.5.7
+    version: 2.5.7(ant-design-vue@3.2.15)(vue@3.3.4)
   ant-design-vue:
     specifier: 3.2.15
     version: 3.2.15(vue@3.3.4)
@@ -326,8 +326,8 @@ packages:
       nanopop: 2.3.0
     dev: false
 
-  /@surely-vue/table@2.5.6(ant-design-vue@3.2.15)(vue@3.3.4):
-    resolution: {integrity: sha512-e2MVq+S7aUW4DCn5jmWPp87cC1nHuMmy6yh+42N6MP4HNNFmSWe2kyuLnqhR9yMUwvUE7aIbJk+3XbbSbbhx+w==}
+  /@surely-vue/table@2.5.7(ant-design-vue@3.2.15)(vue@3.3.4):
+    resolution: {integrity: sha512-MhquYXM+CGn+FDBbPJVTZxpVs9NmBgz5Bf8JoLeYCDJtwHwv5krkpR20bE81zlilfy5uU4x/uHDJK+U6WQ0eZQ==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       ant-design-vue: ^2.0.0 || ^3.1.0 || ^3.3.0-0
